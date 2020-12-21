@@ -26,22 +26,22 @@
             <div class="collapse navbar-collapse" id="collapsibleNavId">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="./bodybuilding.php">Body Building</a>
+                        <a class="nav-link text-white" href="./bodybuilding.php"><strong>Body Building</strong></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="./cycling.php">Cycling</a>
+                        <a class="nav-link text-white" href="./cycling.php"><strong>Cycling</strong></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="./swimming.php">Swimming</a>
+                        <a class="nav-link text-white" href="./swimming.php"><strong>Swimming</strong></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="./yoga.php">Yoga</a>
+                        <a class="nav-link text-white" href="./yoga.php"><strong>Yoga</strong></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="./about.php">About</a>
+                        <a class="nav-link text-white" href="./about.php"><strong>About</strong></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="./faq.php">FAQ’s</a>
+                        <a class="nav-link text-white" href="./faq.php"><strong>FAQ’s</strong></a>
                     </li>
                 </ul>
             </div>
