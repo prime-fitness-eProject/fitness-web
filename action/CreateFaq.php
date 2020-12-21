@@ -19,7 +19,7 @@ if (isset($_POST)) {
     }
 
     try {
-        $query = $connection->prepare("INSERT INTO faq (name, email, address1, address2, city, state, zipcode, message) VALUES (?,?,?,?,?,?,?,?)");
+        $query = $connection->prepare("INSERT INTO faq (NAME, email, address1, address2, city, state, zipcode, message) VALUES (?,?,?,?,?,?,?,?)");
         // "s" means the database expects a string
         $query->bind_param("ssssssss", $name, $email,$address1, $address2, $city, $state, $zipcode, $message);
         $query->execute();
