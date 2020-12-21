@@ -8,13 +8,13 @@ echo $header;
     <div class="bg-cover" style="background-image: url('./img/img2.jpg')" data-scroll="background"></div>
     <div class="carousel-caption">
 
-        <h2 class="question">Q: Muscle weighs more than fat. True or False?</h2>
-        <p>A: False. A pound is a pound regardless of whether the pound is fat or muscle. The truth about muscle is that it's denser than fat and takes up a smaller amount of space in the body. In fact, scientists estimate that 1 pound of muscle occupies about 22% less space than 1 pound of fat!</p>
+        <h2 class="question .d-none .d-sm-block">Q: Muscle weighs more than fat. True or False?</h2>
+        <p class=".d-none .d-sm-block">A: False. A pound is a pound regardless of whether the pound is fat or muscle. The truth about muscle is that it's denser than fat and takes up a smaller amount of space in the body. In fact, scientists estimate that 1 pound of muscle occupies about 22% less space than 1 pound of fat!</p>
 
-        <h2 class="question">
+        <h2 class="question .d-none .d-sm-block">
             Q: Maintaining physical fitness requires major lifestyle changes. True or False?
         </h2>
-        <p>
+        <p class=".d-none .d-sm-block">
             A: False. Fitness can be achieved through small changes in what you eat and your level of activity. It's really that simple. Remember that you can start out slowly; work your way up to a higher level of activity, and implement more dietary changes over time. Patience is essential. Don't try to do too much too soon, and don't quit before you have a chance to experience the rewards of improved fitness and a healthy diet!
         </p>
 
