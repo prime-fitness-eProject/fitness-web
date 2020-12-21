@@ -322,6 +322,10 @@ body.scroll-top .header {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.question {
+    background-color: #007bff;
+}
+
 .section-banner.banner-custom {
     position: absolute;
     top: 0;

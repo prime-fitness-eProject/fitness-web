@@ -278,9 +278,10 @@ echo $header;
 					<h6>Body Building</h6>
 					<p> Muscle helps manage blood sugar.</p>
 
+					<button type="button" onclick="document.location.href='bodybuilding.php'" class="btn btn-info">More info</button>
+
 				</div>
 
-				<button type="button" onclick="document.location.href='bodybuilding.php'" class="btn btn-info">More info</button>
 
 			</div>
 			<div class="col-md-3 col-sm-6">
@@ -289,9 +290,9 @@ echo $header;
 					<h6>Yoga</h6>
 					<p>Could Promote Sleep Quality</p>
 
+					<button type="button" onclick="document.location.href='yoga.php'" class="btn btn-info">More info</button>
 
 				</div>
-				<button type="button" onclick="document.location.href='yoga.php'" class="btn btn-info">More info</button>
 
 			</div>
 			<div class="col-md-3 col-sm-6">
@@ -300,9 +301,10 @@ echo $header;
 					<h6>Cycling</h6>
 					<p>Develop your strength and fitness </p>
 
+					<button type="button" onclick="document.location.href='cycling.php'" class="btn btn-info">More info</button>
+
 				</div>
 
-				<button type="button" onclick="document.location.href='cycling.php'" class="btn btn-info">More info</button>
 
 			</div>
 			<div class="col-md-3 col-sm-6">
@@ -313,9 +315,10 @@ echo $header;
 						Swimming is a healthy activity that you can continue for a lifetime.
 					</p>
 
+					<button type="button" onclick="document.location.href='swimming.php'" class="btn btn-info">More info</button>
+
 				</div>
 
-				<button type="button" onclick="document.location.href='swimming.php'" class="btn btn-info">More info</button>
 
 			</div>
 		</div>
