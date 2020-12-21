@@ -14,7 +14,7 @@ if (isset($_POST)) {
     }
 
     try {
-        $query = $connection->prepare("INSERT INTO enquiry (name, email, message) VALUES (?,?,?)");
+        $query = $connection->prepare("INSERT INTO enquiry (NAME, email, message) VALUES (?,?,?)");
         // "s" means the database expects a string
         $query->bind_param("sss", $name, $email, $message);
         $query->execute();
